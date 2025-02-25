@@ -1,0 +1,25 @@
+.bgc {
+    background: black;
+    color: aliceblue;
+}
+
+#countLabel
+{   font-size: 60px;
+    text-align: center;
+    margin: 10px;
+}
+
+.button{
+    background-color: hotpink;
+    color: #fff;
+    font-size: 20px;
+}
+
+.button:hover{
+    color: #000;
+}
+
+.buttonsContainer{
+    text-align: center;
+    padding: 5px 20px;
+}
