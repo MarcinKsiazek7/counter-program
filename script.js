@@ -1,5 +1,4 @@
 let count = 0;
-let acount = 0;
 
 const decreaseBtn = document.getElementById("decreaseBtn");
 const resetBtn = document.getElementById("resetBtn");
